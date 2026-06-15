@@ -1,0 +1,2026 @@
+[
+  {
+    "name": "Afghanistan",
+    "alternateName": null,
+    "isdCode": "+93",
+    "isoCode": "AF",
+    "flagEmoji": "🇦🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/af.svg"
+  },
+  {
+    "name": "Aland Islands",
+    "alternateName": null,
+    "isdCode": "+358-18",
+    "isoCode": "AX",
+    "flagEmoji": "🇦🇽",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ax.svg"
+  },
+  {
+    "name": "Albania",
+    "alternateName": null,
+    "isdCode": "+355",
+    "isoCode": "AL",
+    "flagEmoji": "🇦🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/al.svg"
+  },
+  {
+    "name": "Algeria",
+    "alternateName": null,
+    "isdCode": "+213",
+    "isoCode": "DZ",
+    "flagEmoji": "🇩🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/dz.svg"
+  },
+  {
+    "name": "American Samoa",
+    "alternateName": null,
+    "isdCode": "+1-684",
+    "isoCode": "AS",
+    "flagEmoji": "🇦🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/as.svg"
+  },
+  {
+    "name": "Andorra",
+    "alternateName": null,
+    "isdCode": "+376",
+    "isoCode": "AD",
+    "flagEmoji": "🇦🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ad.svg"
+  },
+  {
+    "name": "Angola",
+    "alternateName": null,
+    "isdCode": "+244",
+    "isoCode": "AO",
+    "flagEmoji": "🇦🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ao.svg"
+  },
+  {
+    "name": "Anguilla",
+    "alternateName": null,
+    "isdCode": "+1264",
+    "isoCode": "AI",
+    "flagEmoji": "🇦🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ai.svg"
+  },
+  {
+    "name": "Antarctica",
+    "alternateName": null,
+    "isdCode": "+672",
+    "isoCode": "AQ",
+    "flagEmoji": "🇦🇶",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/aq.svg"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "alternateName": null,
+    "isdCode": "+1-268",
+    "isoCode": "AG",
+    "flagEmoji": "🇦🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ag.svg"
+  },
+  {
+    "name": "Argentina",
+    "alternateName": null,
+    "isdCode": "+54",
+    "isoCode": "AR",
+    "flagEmoji": "🇦🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ar.svg"
+  },
+  {
+    "name": "Armenia",
+    "alternateName": null,
+    "isdCode": "+374",
+    "isoCode": "AM",
+    "flagEmoji": "🇦🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/am.svg"
+  },
+  {
+    "name": "Aruba",
+    "alternateName": null,
+    "isdCode": "+297",
+    "isoCode": "AW",
+    "flagEmoji": "🇦🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/aw.svg"
+  },
+  {
+    "name": "Australia",
+    "alternateName": null,
+    "isdCode": "+61",
+    "isoCode": "AU",
+    "flagEmoji": "🇦🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/au.svg"
+  },
+  {
+    "name": "Austria",
+    "alternateName": null,
+    "isdCode": "+43",
+    "isoCode": "AT",
+    "flagEmoji": "🇦🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/at.svg"
+  },
+  {
+    "name": "Azerbaijan",
+    "alternateName": null,
+    "isdCode": "+994",
+    "isoCode": "AZ",
+    "flagEmoji": "🇦🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/az.svg"
+  },
+  {
+    "name": "Bahamas",
+    "alternateName": null,
+    "isdCode": "+1-242",
+    "isoCode": "BS",
+    "flagEmoji": "🇧🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bs.svg"
+  },
+  {
+    "name": "Bahrain",
+    "alternateName": null,
+    "isdCode": "+973",
+    "isoCode": "BH",
+    "flagEmoji": "🇧🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bh.svg"
+  },
+  {
+    "name": "Bangladesh",
+    "alternateName": null,
+    "isdCode": "+880",
+    "isoCode": "BD",
+    "flagEmoji": "🇧🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bd.svg"
+  },
+  {
+    "name": "Barbados",
+    "alternateName": null,
+    "isdCode": "+1-246",
+    "isoCode": "BB",
+    "flagEmoji": "🇧🇧",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bb.svg"
+  },
+  {
+    "name": "Belarus",
+    "alternateName": null,
+    "isdCode": "+375",
+    "isoCode": "BY",
+    "flagEmoji": "🇧🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/by.svg"
+  },
+  {
+    "name": "Belgium",
+    "alternateName": null,
+    "isdCode": "+32",
+    "isoCode": "BE",
+    "flagEmoji": "🇧🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/be.svg"
+  },
+  {
+    "name": "Belize",
+    "alternateName": null,
+    "isdCode": "+501",
+    "isoCode": "BZ",
+    "flagEmoji": "🇧🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bz.svg"
+  },
+  {
+    "name": "Benin",
+    "alternateName": null,
+    "isdCode": "+229",
+    "isoCode": "BJ",
+    "flagEmoji": "🇧🇯",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bj.svg"
+  },
+  {
+    "name": "Bermuda",
+    "alternateName": null,
+    "isdCode": "+1-441",
+    "isoCode": "BM",
+    "flagEmoji": "🇧🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bm.svg"
+  },
+  {
+    "name": "Bhutan",
+    "alternateName": null,
+    "isdCode": "+975",
+    "isoCode": "BT",
+    "flagEmoji": "🇧🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bt.svg"
+  },
+  {
+    "name": "Bolivia",
+    "alternateName": null,
+    "isdCode": "+591",
+    "isoCode": "BO",
+    "flagEmoji": "🇧🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bo.svg"
+  },
+  {
+    "name": "Bonaire, Saint Eustatius and Saba ",
+    "alternateName": null,
+    "isdCode": "+599",
+    "isoCode": "BQ",
+    "flagEmoji": "🇧🇶",
+    "flagImage": null
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "alternateName": null,
+    "isdCode": "+387",
+    "isoCode": "BA",
+    "flagEmoji": "🇧🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ba.svg"
+  },
+  {
+    "name": "Botswana",
+    "alternateName": null,
+    "isdCode": "+267",
+    "isoCode": "BW",
+    "flagEmoji": "🇧🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bw.svg"
+  },
+  {
+    "name": "Bouvet Island",
+    "alternateName": null,
+    "isdCode": "+47",
+    "isoCode": "BV",
+    "flagEmoji": "🇧🇻",
+    "flagImage": null
+  },
+  {
+    "name": "Brazil",
+    "alternateName": null,
+    "isdCode": "+55",
+    "isoCode": "BR",
+    "flagEmoji": "🇧🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/br.svg"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "alternateName": null,
+    "isdCode": "+246",
+    "isoCode": "IO",
+    "flagEmoji": "🇮🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/io.svg"
+  },
+  {
+    "name": "British Virgin Islands",
+    "alternateName": "Virgin Islands, British",
+    "isdCode": "+1-284",
+    "isoCode": "VG",
+    "flagEmoji": "🇻🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/vg.svg"
+  },
+  {
+    "name": "Brunei",
+    "alternateName": "Brunei Darussalam",
+    "isdCode": "+673",
+    "isoCode": "BN",
+    "flagEmoji": "🇧🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bn.svg"
+  },
+  {
+    "name": "Bulgaria",
+    "alternateName": null,
+    "isdCode": "+359",
+    "isoCode": "BG",
+    "flagEmoji": "🇧🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bg.svg"
+  },
+  {
+    "name": "Burkina Faso",
+    "alternateName": null,
+    "isdCode": "+226",
+    "isoCode": "BF",
+    "flagEmoji": "🇧🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bf.svg"
+  },
+  {
+    "name": "Burundi",
+    "alternateName": null,
+    "isdCode": "+257",
+    "isoCode": "BI",
+    "flagEmoji": "🇧🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bi.svg"
+  },
+  {
+    "name": "Cambodia",
+    "alternateName": null,
+    "isdCode": "+855",
+    "isoCode": "KH",
+    "flagEmoji": "🇰🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kh.svg"
+  },
+  {
+    "name": "Cameroon",
+    "alternateName": null,
+    "isdCode": "+237",
+    "isoCode": "CM",
+    "flagEmoji": "🇨🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cm.svg"
+  },
+  {
+    "name": "Canada",
+    "alternateName": null,
+    "isdCode": "+1",
+    "isoCode": "CA",
+    "flagEmoji": "🇨🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ca.svg"
+  },
+  {
+    "name": "Cape Verde",
+    "alternateName": null,
+    "isdCode": "+238",
+    "isoCode": "CV",
+    "flagEmoji": "🇨🇻",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cv.svg"
+  },
+  {
+    "name": "Cayman Islands",
+    "alternateName": null,
+    "isdCode": "+1-345",
+    "isoCode": "KY",
+    "flagEmoji": "🇰🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ky.svg"
+  },
+  {
+    "name": "Central African Republic",
+    "alternateName": null,
+    "isdCode": "+236",
+    "isoCode": "CF",
+    "flagEmoji": "🇨🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cf.svg"
+  },
+  {
+    "name": "Chad",
+    "alternateName": null,
+    "isdCode": "+235",
+    "isoCode": "TD",
+    "flagEmoji": "🇹🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/td.svg"
+  },
+  {
+    "name": "Chile",
+    "alternateName": null,
+    "isdCode": "+56",
+    "isoCode": "CL",
+    "flagEmoji": "🇨🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cl.svg"
+  },
+  {
+    "name": "China",
+    "alternateName": null,
+    "isdCode": "+86",
+    "isoCode": "CN",
+    "flagEmoji": "🇨🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cn.svg"
+  },
+  {
+    "name": "Christmas Island",
+    "alternateName": null,
+    "isdCode": "+61",
+    "isoCode": "CX",
+    "flagEmoji": "🇨🇽",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cx.svg"
+  },
+  {
+    "name": "Cocos Islands",
+    "alternateName": "Cocos (Keeling) Islands",
+    "isdCode": "+61",
+    "isoCode": "CC",
+    "flagEmoji": "🇨🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cc.svg"
+  },
+  {
+    "name": "Colombia",
+    "alternateName": null,
+    "isdCode": "+57",
+    "isoCode": "CO",
+    "flagEmoji": "🇨🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/co.svg"
+  },
+  {
+    "name": "Comoros",
+    "alternateName": null,
+    "isdCode": "+269",
+    "isoCode": "KM",
+    "flagEmoji": "🇰🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/km.svg"
+  },
+  {
+    "name": "Cook Islands",
+    "alternateName": null,
+    "isdCode": "+682",
+    "isoCode": "CK",
+    "flagEmoji": "🇨🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ck.svg"
+  },
+  {
+    "name": "Costa Rica",
+    "alternateName": null,
+    "isdCode": "+506",
+    "isoCode": "CR",
+    "flagEmoji": "🇨🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cr.svg"
+  },
+  {
+    "name": "Croatia",
+    "alternateName": null,
+    "isdCode": "+385",
+    "isoCode": "HR",
+    "flagEmoji": "🇭🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/hr.svg"
+  },
+  {
+    "name": "Cuba",
+    "alternateName": null,
+    "isdCode": "+53",
+    "isoCode": "CU",
+    "flagEmoji": "🇨🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cu.svg"
+  },
+  {
+    "name": "Curacao",
+    "alternateName": null,
+    "isdCode": "+599",
+    "isoCode": "CW",
+    "flagEmoji": "🇨🇼",
+    "flagImage": null
+  },
+  {
+    "name": "Cyprus",
+    "alternateName": null,
+    "isdCode": "+357",
+    "isoCode": "CY",
+    "flagEmoji": "🇨🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cy.svg"
+  },
+  {
+    "name": "Czech Republic",
+    "alternateName": null,
+    "isdCode": "+420",
+    "isoCode": "CZ",
+    "flagEmoji": "🇨🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cz.svg"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "alternateName": null,
+    "isdCode": "+243",
+    "isoCode": "CD",
+    "flagEmoji": "🇨🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cd.svg"
+  },
+  {
+    "name": "Denmark",
+    "alternateName": null,
+    "isdCode": "+45",
+    "isoCode": "DK",
+    "flagEmoji": "🇩🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/dk.svg"
+  },
+  {
+    "name": "Djibouti",
+    "alternateName": null,
+    "isdCode": "+253",
+    "isoCode": "DJ",
+    "flagEmoji": "🇩🇯",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/dj.svg"
+  },
+  {
+    "name": "Dominica",
+    "alternateName": null,
+    "isdCode": "+1-767",
+    "isoCode": "DM",
+    "flagEmoji": "🇩🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/dm.svg"
+  },
+  {
+    "name": "Dominican Republic",
+    "alternateName": null,
+    "isdCode": "+1-809 and 1-829",
+    "isoCode": "DO",
+    "flagEmoji": "🇩🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/do.svg"
+  },
+  {
+    "name": "East Timor",
+    "alternateName": "Timor-Leste",
+    "isdCode": "+670",
+    "isoCode": "TL",
+    "flagEmoji": "🇹🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tl.svg"
+  },
+  {
+    "name": "Ecuador",
+    "alternateName": null,
+    "isdCode": "+593",
+    "isoCode": "EC",
+    "flagEmoji": "🇪🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ec.svg"
+  },
+  {
+    "name": "Egypt",
+    "alternateName": null,
+    "isdCode": "+20",
+    "isoCode": "EG",
+    "flagEmoji": "🇪🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/eg.svg"
+  },
+  {
+    "name": "El Salvador",
+    "alternateName": null,
+    "isdCode": "+503",
+    "isoCode": "SV",
+    "flagEmoji": "🇸🇻",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sv.svg"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "alternateName": null,
+    "isdCode": "+240",
+    "isoCode": "GQ",
+    "flagEmoji": "🇬🇶",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gq.svg"
+  },
+  {
+    "name": "Eritrea",
+    "alternateName": null,
+    "isdCode": "+291",
+    "isoCode": "ER",
+    "flagEmoji": "🇪🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/er.svg"
+  },
+  {
+    "name": "Estonia",
+    "alternateName": null,
+    "isdCode": "+372",
+    "isoCode": "EE",
+    "flagEmoji": "🇪🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ee.svg"
+  },
+  {
+    "name": "Ethiopia",
+    "alternateName": null,
+    "isdCode": "+251",
+    "isoCode": "ET",
+    "flagEmoji": "🇪🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/et.svg"
+  },
+  {
+    "name": "Falkland Islands",
+    "alternateName": "Falkland Islands (Malvinas)",
+    "isdCode": "+500",
+    "isoCode": "FK",
+    "flagEmoji": "🇫🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/fk.svg"
+  },
+  {
+    "name": "Faroe Islands",
+    "alternateName": null,
+    "isdCode": "+298",
+    "isoCode": "FO",
+    "flagEmoji": "🇫🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/fo.svg"
+  },
+  {
+    "name": "Fiji",
+    "alternateName": null,
+    "isdCode": "+679",
+    "isoCode": "FJ",
+    "flagEmoji": "🇫🇯",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/fj.svg"
+  },
+  {
+    "name": "Finland",
+    "alternateName": null,
+    "isdCode": "+358",
+    "isoCode": "FI",
+    "flagEmoji": "🇫🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/fi.svg"
+  },
+  {
+    "name": "France",
+    "alternateName": null,
+    "isdCode": "+33",
+    "isoCode": "FR",
+    "flagEmoji": "🇫🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/fr.svg"
+  },
+  {
+    "name": "French Guiana",
+    "alternateName": null,
+    "isdCode": "+594",
+    "isoCode": "GF",
+    "flagEmoji": "🇬🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gf.svg"
+  },
+  {
+    "name": "French Polynesia",
+    "alternateName": null,
+    "isdCode": "+689",
+    "isoCode": "PF",
+    "flagEmoji": "🇵🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pf.svg"
+  },
+  {
+    "name": "French Southern Territories",
+    "alternateName": null,
+    "isdCode": "+262",
+    "isoCode": "TF",
+    "flagEmoji": "🇹🇫",
+    "flagImage": null
+  },
+  {
+    "name": "Gabon",
+    "alternateName": null,
+    "isdCode": "+241",
+    "isoCode": "GA",
+    "flagEmoji": "🇬🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ga.svg"
+  },
+  {
+    "name": "Gambia",
+    "alternateName": null,
+    "isdCode": "+220",
+    "isoCode": "GM",
+    "flagEmoji": "🇬🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gm.svg"
+  },
+  {
+    "name": "Georgia",
+    "alternateName": null,
+    "isdCode": "+995",
+    "isoCode": "GE",
+    "flagEmoji": "🇬🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ge.svg"
+  },
+  {
+    "name": "Germany",
+    "alternateName": null,
+    "isdCode": "+49",
+    "isoCode": "DE",
+    "flagEmoji": "🇩🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/de.svg"
+  },
+  {
+    "name": "Ghana",
+    "alternateName": null,
+    "isdCode": "+233",
+    "isoCode": "GH",
+    "flagEmoji": "🇬🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gh.svg"
+  },
+  {
+    "name": "Gibraltar",
+    "alternateName": null,
+    "isdCode": "+350",
+    "isoCode": "GI",
+    "flagEmoji": "🇬🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gi.svg"
+  },
+  {
+    "name": "Greece",
+    "alternateName": null,
+    "isdCode": "+30",
+    "isoCode": "GR",
+    "flagEmoji": "🇬🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gr.svg"
+  },
+  {
+    "name": "Greenland",
+    "alternateName": null,
+    "isdCode": "+299",
+    "isoCode": "GL",
+    "flagEmoji": "🇬🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gl.svg"
+  },
+  {
+    "name": "Grenada",
+    "alternateName": null,
+    "isdCode": "+1-473",
+    "isoCode": "GD",
+    "flagEmoji": "🇬🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gd.svg"
+  },
+  {
+    "name": "Guadeloupe",
+    "alternateName": null,
+    "isdCode": "+590",
+    "isoCode": "GP",
+    "flagEmoji": "🇬🇵",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gp.svg"
+  },
+  {
+    "name": "Guam",
+    "alternateName": null,
+    "isdCode": "+1-671",
+    "isoCode": "GU",
+    "flagEmoji": "🇬🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gu.svg"
+  },
+  {
+    "name": "Guatemala",
+    "alternateName": null,
+    "isdCode": "+502",
+    "isoCode": "GT",
+    "flagEmoji": "🇬🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gt.svg"
+  },
+  {
+    "name": "Guernsey",
+    "alternateName": null,
+    "isdCode": "+44-1481",
+    "isoCode": "GG",
+    "flagEmoji": "🇬🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gg.svg"
+  },
+  {
+    "name": "Guinea",
+    "alternateName": null,
+    "isdCode": "+224",
+    "isoCode": "GN",
+    "flagEmoji": "🇬🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gn.svg"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "alternateName": null,
+    "isdCode": "+245",
+    "isoCode": "GW",
+    "flagEmoji": "🇬🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gw.svg"
+  },
+  {
+    "name": "Guyana",
+    "alternateName": null,
+    "isdCode": "+592",
+    "isoCode": "GY",
+    "flagEmoji": "🇬🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gy.svg"
+  },
+  {
+    "name": "Haiti",
+    "alternateName": null,
+    "isdCode": "+509",
+    "isoCode": "HT",
+    "flagEmoji": "🇭🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ht.svg"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "alternateName": null,
+    "isdCode": "+ ",
+    "isoCode": "HM",
+    "flagEmoji": "🇭🇲",
+    "flagImage": null
+  },
+  {
+    "name": "Honduras",
+    "alternateName": null,
+    "isdCode": "+504",
+    "isoCode": "HN",
+    "flagEmoji": "🇭🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/hn.svg"
+  },
+  {
+    "name": "Hong Kong",
+    "alternateName": null,
+    "isdCode": "+852",
+    "isoCode": "HK",
+    "flagEmoji": "🇭🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/hk.svg"
+  },
+  {
+    "name": "Hungary",
+    "alternateName": null,
+    "isdCode": "+36",
+    "isoCode": "HU",
+    "flagEmoji": "🇭🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/hu.svg"
+  },
+  {
+    "name": "Iceland",
+    "alternateName": null,
+    "isdCode": "+354",
+    "isoCode": "IS",
+    "flagEmoji": "🇮🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/is.svg"
+  },
+  {
+    "name": "India",
+    "alternateName": null,
+    "isdCode": "+91",
+    "isoCode": "IN",
+    "flagEmoji": "🇮🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/in.svg"
+  },
+  {
+    "name": "Indonesia",
+    "alternateName": null,
+    "isdCode": "+62",
+    "isoCode": "ID",
+    "flagEmoji": "🇮🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/id.svg"
+  },
+  {
+    "name": "Iran",
+    "alternateName": null,
+    "isdCode": "+98",
+    "isoCode": "IR",
+    "flagEmoji": "🇮🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ir.svg"
+  },
+  {
+    "name": "Iraq",
+    "alternateName": null,
+    "isdCode": "+964",
+    "isoCode": "IQ",
+    "flagEmoji": "🇮🇶",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/iq.svg"
+  },
+  {
+    "name": "Ireland",
+    "alternateName": null,
+    "isdCode": "+353",
+    "isoCode": "IE",
+    "flagEmoji": "🇮🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ie.svg"
+  },
+  {
+    "name": "Isle of Man",
+    "alternateName": null,
+    "isdCode": "+44-1624",
+    "isoCode": "IM",
+    "flagEmoji": "🇮🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/im.svg"
+  },
+  {
+    "name": "Israel",
+    "alternateName": null,
+    "isdCode": "+972",
+    "isoCode": "IL",
+    "flagEmoji": "🇮🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/il.svg"
+  },
+  {
+    "name": "Italy",
+    "alternateName": null,
+    "isdCode": "+39",
+    "isoCode": "IT",
+    "flagEmoji": "🇮🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/it.svg"
+  },
+  {
+    "name": "Ivory Coast",
+    "alternateName": "Ivory Coast / Cote d'Ivoire",
+    "isdCode": "+225",
+    "isoCode": "CI",
+    "flagEmoji": "🇨🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ci.svg"
+  },
+  {
+    "name": "Jamaica",
+    "alternateName": null,
+    "isdCode": "+1-876",
+    "isoCode": "JM",
+    "flagEmoji": "🇯🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/jm.svg"
+  },
+  {
+    "name": "Japan",
+    "alternateName": null,
+    "isdCode": "+81",
+    "isoCode": "JP",
+    "flagEmoji": "🇯🇵",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/jp.svg"
+  },
+  {
+    "name": "Jersey",
+    "alternateName": null,
+    "isdCode": "+44-1534",
+    "isoCode": "JE",
+    "flagEmoji": "🇯🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/je.svg"
+  },
+  {
+    "name": "Jordan",
+    "alternateName": null,
+    "isdCode": "+962",
+    "isoCode": "JO",
+    "flagEmoji": "🇯🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/jo.svg"
+  },
+  {
+    "name": "Kazakhstan",
+    "alternateName": null,
+    "isdCode": "+7",
+    "isoCode": "KZ",
+    "flagEmoji": "🇰🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kz.svg"
+  },
+  {
+    "name": "Kenya",
+    "alternateName": null,
+    "isdCode": "+254",
+    "isoCode": "KE",
+    "flagEmoji": "🇰🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ke.svg"
+  },
+  {
+    "name": "Kiribati",
+    "alternateName": null,
+    "isdCode": "+686",
+    "isoCode": "KI",
+    "flagEmoji": "🇰🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ki.svg"
+  },
+  {
+    "name": "Kosovo",
+    "alternateName": null,
+    "isdCode": "+383",
+    "isoCode": "XK",
+    "flagEmoji": "🇽🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/xk.svg"
+  },
+  {
+    "name": "Kuwait",
+    "alternateName": null,
+    "isdCode": "+965",
+    "isoCode": "KW",
+    "flagEmoji": "🇰🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kw.svg"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "alternateName": null,
+    "isdCode": "+996",
+    "isoCode": "KG",
+    "flagEmoji": "🇰🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kg.svg"
+  },
+  {
+    "name": "Laos",
+    "alternateName": null,
+    "isdCode": "+856",
+    "isoCode": "LA",
+    "flagEmoji": "🇱🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/la.svg"
+  },
+  {
+    "name": "Latvia",
+    "alternateName": null,
+    "isdCode": "+371",
+    "isoCode": "LV",
+    "flagEmoji": "🇱🇻",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lv.svg"
+  },
+  {
+    "name": "Lebanon",
+    "alternateName": null,
+    "isdCode": "+961",
+    "isoCode": "LB",
+    "flagEmoji": "🇱🇧",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lb.svg"
+  },
+  {
+    "name": "Lesotho",
+    "alternateName": null,
+    "isdCode": "+266",
+    "isoCode": "LS",
+    "flagEmoji": "🇱🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ls.svg"
+  },
+  {
+    "name": "Liberia",
+    "alternateName": null,
+    "isdCode": "+231",
+    "isoCode": "LR",
+    "flagEmoji": "🇱🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lr.svg"
+  },
+  {
+    "name": "Libya",
+    "alternateName": null,
+    "isdCode": "+218",
+    "isoCode": "LY",
+    "flagEmoji": "🇱🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ly.svg"
+  },
+  {
+    "name": "Liechtenstein",
+    "alternateName": null,
+    "isdCode": "+423",
+    "isoCode": "LI",
+    "flagEmoji": "🇱🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/li.svg"
+  },
+  {
+    "name": "Lithuania",
+    "alternateName": null,
+    "isdCode": "+370",
+    "isoCode": "LT",
+    "flagEmoji": "🇱🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lt.svg"
+  },
+  {
+    "name": "Luxembourg",
+    "alternateName": null,
+    "isdCode": "+352",
+    "isoCode": "LU",
+    "flagEmoji": "🇱🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lu.svg"
+  },
+  {
+    "name": "Macao",
+    "alternateName": "Macau",
+    "isdCode": "+853",
+    "isoCode": "MO",
+    "flagEmoji": "🇲🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mo.svg"
+  },
+  {
+    "name": "Macedonia",
+    "alternateName": "North Macedonia",
+    "isdCode": "+389",
+    "isoCode": "MK",
+    "flagEmoji": "🇲🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mk.svg"
+  },
+  {
+    "name": "Madagascar",
+    "alternateName": null,
+    "isdCode": "+261",
+    "isoCode": "MG",
+    "flagEmoji": "🇲🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mg.svg"
+  },
+  {
+    "name": "Malawi",
+    "alternateName": null,
+    "isdCode": "+265",
+    "isoCode": "MW",
+    "flagEmoji": "🇲🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mw.svg"
+  },
+  {
+    "name": "Malaysia",
+    "alternateName": null,
+    "isdCode": "+60",
+    "isoCode": "MY",
+    "flagEmoji": "🇲🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/my.svg"
+  },
+  {
+    "name": "Maldives",
+    "alternateName": null,
+    "isdCode": "+960",
+    "isoCode": "MV",
+    "flagEmoji": "🇲🇻",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mv.svg"
+  },
+  {
+    "name": "Mali",
+    "alternateName": null,
+    "isdCode": "+223",
+    "isoCode": "ML",
+    "flagEmoji": "🇲🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ml.svg"
+  },
+  {
+    "name": "Malta",
+    "alternateName": null,
+    "isdCode": "+356",
+    "isoCode": "MT",
+    "flagEmoji": "🇲🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mt.svg"
+  },
+  {
+    "name": "Marshall Islands",
+    "alternateName": null,
+    "isdCode": "+692",
+    "isoCode": "MH",
+    "flagEmoji": "🇲🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mh.svg"
+  },
+  {
+    "name": "Martinique",
+    "alternateName": null,
+    "isdCode": "+596",
+    "isoCode": "MQ",
+    "flagEmoji": "🇲🇶",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mq.svg"
+  },
+  {
+    "name": "Mauritania",
+    "alternateName": null,
+    "isdCode": "+222",
+    "isoCode": "MR",
+    "flagEmoji": "🇲🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mr.svg"
+  },
+  {
+    "name": "Mauritius",
+    "alternateName": null,
+    "isdCode": "+230",
+    "isoCode": "MU",
+    "flagEmoji": "🇲🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mu.svg"
+  },
+  {
+    "name": "Mayotte",
+    "alternateName": null,
+    "isdCode": "+262",
+    "isoCode": "YT",
+    "flagEmoji": "🇾🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/yt.svg"
+  },
+  {
+    "name": "Mexico",
+    "alternateName": null,
+    "isdCode": "+52",
+    "isoCode": "MX",
+    "flagEmoji": "🇲🇽",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mx.svg"
+  },
+  {
+    "name": "Micronesia",
+    "alternateName": "Micronesia, Federated States of Micronesia",
+    "isdCode": "+691",
+    "isoCode": "FM",
+    "flagEmoji": "🇫🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/fm.svg"
+  },
+  {
+    "name": "Moldova",
+    "alternateName": null,
+    "isdCode": "+373",
+    "isoCode": "MD",
+    "flagEmoji": "🇲🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/md.svg"
+  },
+  {
+    "name": "Monaco",
+    "alternateName": null,
+    "isdCode": "+377",
+    "isoCode": "MC",
+    "flagEmoji": "🇲🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mc.svg"
+  },
+  {
+    "name": "Mongolia",
+    "alternateName": null,
+    "isdCode": "+976",
+    "isoCode": "MN",
+    "flagEmoji": "🇲🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mn.svg"
+  },
+  {
+    "name": "Montenegro",
+    "alternateName": null,
+    "isdCode": "+382",
+    "isoCode": "ME",
+    "flagEmoji": "🇲🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/me.svg"
+  },
+  {
+    "name": "Montserrat",
+    "alternateName": null,
+    "isdCode": "+1-664",
+    "isoCode": "MS",
+    "flagEmoji": "🇲🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ms.svg"
+  },
+  {
+    "name": "Morocco",
+    "alternateName": null,
+    "isdCode": "+212",
+    "isoCode": "MA",
+    "flagEmoji": "🇲🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ma.svg"
+  },
+  {
+    "name": "Mozambique",
+    "alternateName": null,
+    "isdCode": "+258",
+    "isoCode": "MZ",
+    "flagEmoji": "🇲🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mz.svg"
+  },
+  {
+    "name": "Myanmar",
+    "alternateName": null,
+    "isdCode": "+95",
+    "isoCode": "MM",
+    "flagEmoji": "🇲🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mm.svg"
+  },
+  {
+    "name": "Namibia",
+    "alternateName": null,
+    "isdCode": "+264",
+    "isoCode": "NA",
+    "flagEmoji": "🇳🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/na.svg"
+  },
+  {
+    "name": "Nauru",
+    "alternateName": null,
+    "isdCode": "+674",
+    "isoCode": "NR",
+    "flagEmoji": "🇳🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/nr.svg"
+  },
+  {
+    "name": "Nepal",
+    "alternateName": null,
+    "isdCode": "+977",
+    "isoCode": "NP",
+    "flagEmoji": "🇳🇵",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/np.svg"
+  },
+  {
+    "name": "Netherlands",
+    "alternateName": null,
+    "isdCode": "+31",
+    "isoCode": "NL",
+    "flagEmoji": "🇳🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/nl.svg"
+  },
+  {
+    "name": "New Caledonia",
+    "alternateName": null,
+    "isdCode": "+687",
+    "isoCode": "NC",
+    "flagEmoji": "🇳🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/nc.svg"
+  },
+  {
+    "name": "New Zealand",
+    "alternateName": null,
+    "isdCode": "+64",
+    "isoCode": "NZ",
+    "flagEmoji": "🇳🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/nz.svg"
+  },
+  {
+    "name": "Nicaragua",
+    "alternateName": null,
+    "isdCode": "+505",
+    "isoCode": "NI",
+    "flagEmoji": "🇳🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ni.svg"
+  },
+  {
+    "name": "Niger",
+    "alternateName": null,
+    "isdCode": "+227",
+    "isoCode": "NE",
+    "flagEmoji": "🇳🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ne.svg"
+  },
+  {
+    "name": "Nigeria",
+    "alternateName": null,
+    "isdCode": "+234",
+    "isoCode": "NG",
+    "flagEmoji": "🇳🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ng.svg"
+  },
+  {
+    "name": "Niue",
+    "alternateName": null,
+    "isdCode": "+683",
+    "isoCode": "NU",
+    "flagEmoji": "🇳🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/nu.svg"
+  },
+  {
+    "name": "Norfolk Island",
+    "alternateName": null,
+    "isdCode": "+672",
+    "isoCode": "NF",
+    "flagEmoji": "🇳🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/nf.svg"
+  },
+  {
+    "name": "North Korea",
+    "alternateName": "Korea, Democratic People's Republic of Korea",
+    "isdCode": "+850",
+    "isoCode": "KP",
+    "flagEmoji": "🇰🇵",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kp.svg"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "alternateName": null,
+    "isdCode": "+1-670",
+    "isoCode": "MP",
+    "flagEmoji": "🇲🇵",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mp.svg"
+  },
+  {
+    "name": "Norway",
+    "alternateName": null,
+    "isdCode": "+47",
+    "isoCode": "NO",
+    "flagEmoji": "🇳🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/no.svg"
+  },
+  {
+    "name": "Oman",
+    "alternateName": null,
+    "isdCode": "+968",
+    "isoCode": "OM",
+    "flagEmoji": "🇴🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/om.svg"
+  },
+  {
+    "name": "Pakistan",
+    "alternateName": null,
+    "isdCode": "+92",
+    "isoCode": "PK",
+    "flagEmoji": "🇵🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pk.svg"
+  },
+  {
+    "name": "Palau",
+    "alternateName": null,
+    "isdCode": "+680",
+    "isoCode": "PW",
+    "flagEmoji": "🇵🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pw.svg"
+  },
+  {
+    "name": "Palestinian Territory",
+    "alternateName": "Palestine",
+    "isdCode": "+970",
+    "isoCode": "PS",
+    "flagEmoji": "🇵🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ps.svg"
+  },
+  {
+    "name": "Panama",
+    "alternateName": null,
+    "isdCode": "+507",
+    "isoCode": "PA",
+    "flagEmoji": "🇵🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pa.svg"
+  },
+  {
+    "name": "Papua New Guinea",
+    "alternateName": null,
+    "isdCode": "+675",
+    "isoCode": "PG",
+    "flagEmoji": "🇵🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pg.svg"
+  },
+  {
+    "name": "Paraguay",
+    "alternateName": null,
+    "isdCode": "+595",
+    "isoCode": "PY",
+    "flagEmoji": "🇵🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/py.svg"
+  },
+  {
+    "name": "Peru",
+    "alternateName": null,
+    "isdCode": "+51",
+    "isoCode": "PE",
+    "flagEmoji": "🇵🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pe.svg"
+  },
+  {
+    "name": "Philippines",
+    "alternateName": null,
+    "isdCode": "+63",
+    "isoCode": "PH",
+    "flagEmoji": "🇵🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ph.svg"
+  },
+  {
+    "name": "Pitcairn",
+    "alternateName": null,
+    "isdCode": "+870",
+    "isoCode": "PN",
+    "flagEmoji": "🇵🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pn.svg"
+  },
+  {
+    "name": "Poland",
+    "alternateName": null,
+    "isdCode": "+48",
+    "isoCode": "PL",
+    "flagEmoji": "🇵🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pl.svg"
+  },
+  {
+    "name": "Portugal",
+    "alternateName": null,
+    "isdCode": "+351",
+    "isoCode": "PT",
+    "flagEmoji": "🇵🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pt.svg"
+  },
+  {
+    "name": "Puerto Rico",
+    "alternateName": null,
+    "isdCode": "+1-787 and 1-939",
+    "isoCode": "PR",
+    "flagEmoji": "🇵🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pr.svg"
+  },
+  {
+    "name": "Qatar",
+    "alternateName": null,
+    "isdCode": "+974",
+    "isoCode": "QA",
+    "flagEmoji": "🇶🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/qa.svg"
+  },
+  {
+    "name": "Republic of the Congo",
+    "alternateName": "Congo",
+    "isdCode": "+242",
+    "isoCode": "CG",
+    "flagEmoji": "🇨🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/cg.svg"
+  },
+  {
+    "name": "Reunion",
+    "alternateName": null,
+    "isdCode": "+262",
+    "isoCode": "RE",
+    "flagEmoji": "🇷🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/re.svg"
+  },
+  {
+    "name": "Romania",
+    "alternateName": null,
+    "isdCode": "+40",
+    "isoCode": "RO",
+    "flagEmoji": "🇷🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ro.svg"
+  },
+  {
+    "name": "Russia",
+    "alternateName": null,
+    "isdCode": "+7",
+    "isoCode": "RU",
+    "flagEmoji": "🇷🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ru.svg"
+  },
+  {
+    "name": "Rwanda",
+    "alternateName": null,
+    "isdCode": "+250",
+    "isoCode": "RW",
+    "flagEmoji": "🇷🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/rw.svg"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "alternateName": null,
+    "isdCode": "+590",
+    "isoCode": "BL",
+    "flagEmoji": "🇧🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/bl.svg"
+  },
+  {
+    "name": "Saint Helena",
+    "alternateName": "Saint Helena, Ascension and Tristan Da Cunha",
+    "isdCode": "+290",
+    "isoCode": "SH",
+    "flagEmoji": "🇸🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sh.svg"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "alternateName": null,
+    "isdCode": "+1-869",
+    "isoCode": "KN",
+    "flagEmoji": "🇰🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kn.svg"
+  },
+  {
+    "name": "Saint Lucia",
+    "alternateName": null,
+    "isdCode": "+1-758",
+    "isoCode": "LC",
+    "flagEmoji": "🇱🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lc.svg"
+  },
+  {
+    "name": "Saint Martin",
+    "alternateName": null,
+    "isdCode": "+590",
+    "isoCode": "MF",
+    "flagEmoji": "🇲🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/mf.svg"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "alternateName": null,
+    "isdCode": "+508",
+    "isoCode": "PM",
+    "flagEmoji": "🇵🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/pm.svg"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "alternateName": null,
+    "isdCode": "+1-784",
+    "isoCode": "VC",
+    "flagEmoji": "🇻🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/vc.svg"
+  },
+  {
+    "name": "Samoa",
+    "alternateName": null,
+    "isdCode": "+685",
+    "isoCode": "WS",
+    "flagEmoji": "🇼🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ws.svg"
+  },
+  {
+    "name": "San Marino",
+    "alternateName": null,
+    "isdCode": "+378",
+    "isoCode": "SM",
+    "flagEmoji": "🇸🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sm.svg"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "alternateName": null,
+    "isdCode": "+239",
+    "isoCode": "ST",
+    "flagEmoji": "🇸🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/st.svg"
+  },
+  {
+    "name": "Saudi Arabia",
+    "alternateName": null,
+    "isdCode": "+966",
+    "isoCode": "SA",
+    "flagEmoji": "🇸🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sa.svg"
+  },
+  {
+    "name": "Senegal",
+    "alternateName": null,
+    "isdCode": "+221",
+    "isoCode": "SN",
+    "flagEmoji": "🇸🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sn.svg"
+  },
+  {
+    "name": "Serbia",
+    "alternateName": null,
+    "isdCode": "+381",
+    "isoCode": "RS",
+    "flagEmoji": "🇷🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/rs.svg"
+  },
+  {
+    "name": "Seychelles",
+    "alternateName": null,
+    "isdCode": "+248",
+    "isoCode": "SC",
+    "flagEmoji": "🇸🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sc.svg"
+  },
+  {
+    "name": "Sierra Leone",
+    "alternateName": null,
+    "isdCode": "+232",
+    "isoCode": "SL",
+    "flagEmoji": "🇸🇱",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sl.svg"
+  },
+  {
+    "name": "Singapore",
+    "alternateName": null,
+    "isdCode": "+65",
+    "isoCode": "SG",
+    "flagEmoji": "🇸🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sg.svg"
+  },
+  {
+    "name": "Sint Maarten",
+    "alternateName": null,
+    "isdCode": "+599",
+    "isoCode": "SX",
+    "flagEmoji": "🇸🇽",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sx.svg"
+  },
+  {
+    "name": "Slovakia",
+    "alternateName": null,
+    "isdCode": "+421",
+    "isoCode": "SK",
+    "flagEmoji": "🇸🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sk.svg"
+  },
+  {
+    "name": "Slovenia",
+    "alternateName": null,
+    "isdCode": "+386",
+    "isoCode": "SI",
+    "flagEmoji": "🇸🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/si.svg"
+  },
+  {
+    "name": "Solomon Islands",
+    "alternateName": null,
+    "isdCode": "+677",
+    "isoCode": "SB",
+    "flagEmoji": "🇸🇧",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sb.svg"
+  },
+  {
+    "name": "Somalia",
+    "alternateName": null,
+    "isdCode": "+252",
+    "isoCode": "SO",
+    "flagEmoji": "🇸🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/so.svg"
+  },
+  {
+    "name": "South Africa",
+    "alternateName": null,
+    "isdCode": "+27",
+    "isoCode": "ZA",
+    "flagEmoji": "🇿🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/za.svg"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "alternateName": null,
+    "isdCode": "+500",
+    "isoCode": "GS",
+    "flagEmoji": "🇬🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gs.svg"
+  },
+  {
+    "name": "South Korea",
+    "alternateName": "Korea, Republic of South Korea",
+    "isdCode": "+82",
+    "isoCode": "KR",
+    "flagEmoji": "🇰🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/kr.svg"
+  },
+  {
+    "name": "South Sudan",
+    "alternateName": null,
+    "isdCode": "+211",
+    "isoCode": "SS",
+    "flagEmoji": "🇸🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ss.svg"
+  },
+  {
+    "name": "Spain",
+    "alternateName": null,
+    "isdCode": "+34",
+    "isoCode": "ES",
+    "flagEmoji": "🇪🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/es.svg"
+  },
+  {
+    "name": "Sri Lanka",
+    "alternateName": null,
+    "isdCode": "+94",
+    "isoCode": "LK",
+    "flagEmoji": "🇱🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/lk.svg"
+  },
+  {
+    "name": "Sudan",
+    "alternateName": null,
+    "isdCode": "+249",
+    "isoCode": "SD",
+    "flagEmoji": "🇸🇩",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sd.svg"
+  },
+  {
+    "name": "Suriname",
+    "alternateName": null,
+    "isdCode": "+597",
+    "isoCode": "SR",
+    "flagEmoji": "🇸🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sr.svg"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "alternateName": null,
+    "isdCode": "+47",
+    "isoCode": "SJ",
+    "flagEmoji": "🇸🇯",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sj.svg"
+  },
+  {
+    "name": "Swaziland",
+    "alternateName": "Eswatini",
+    "isdCode": "+268",
+    "isoCode": "SZ",
+    "flagEmoji": "🇸🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sz.svg"
+  },
+  {
+    "name": "Sweden",
+    "alternateName": null,
+    "isdCode": "+46",
+    "isoCode": "SE",
+    "flagEmoji": "🇸🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/se.svg"
+  },
+  {
+    "name": "Switzerland",
+    "alternateName": null,
+    "isdCode": "+41",
+    "isoCode": "CH",
+    "flagEmoji": "🇨🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ch.svg"
+  },
+  {
+    "name": "Syria",
+    "alternateName": "Syrian Arab Republic",
+    "isdCode": "+963",
+    "isoCode": "SY",
+    "flagEmoji": "🇸🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/sy.svg"
+  },
+  {
+    "name": "Taiwan",
+    "alternateName": null,
+    "isdCode": "+886",
+    "isoCode": "TW",
+    "flagEmoji": "🇹🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tw.svg"
+  },
+  {
+    "name": "Tajikistan",
+    "alternateName": null,
+    "isdCode": "+992",
+    "isoCode": "TJ",
+    "flagEmoji": "🇹🇯",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tj.svg"
+  },
+  {
+    "name": "Tanzania",
+    "alternateName": "Tanzania, United Republic of Tanzania",
+    "isdCode": "+255",
+    "isoCode": "TZ",
+    "flagEmoji": "🇹🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tz.svg"
+  },
+  {
+    "name": "Thailand",
+    "alternateName": null,
+    "isdCode": "+66",
+    "isoCode": "TH",
+    "flagEmoji": "🇹🇭",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/th.svg"
+  },
+  {
+    "name": "Togo",
+    "alternateName": null,
+    "isdCode": "+228",
+    "isoCode": "TG",
+    "flagEmoji": "🇹🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tg.svg"
+  },
+  {
+    "name": "Tokelau",
+    "alternateName": null,
+    "isdCode": "+690",
+    "isoCode": "TK",
+    "flagEmoji": "🇹🇰",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tk.svg"
+  },
+  {
+    "name": "Tonga",
+    "alternateName": null,
+    "isdCode": "+676",
+    "isoCode": "TO",
+    "flagEmoji": "🇹🇴",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/to.svg"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "alternateName": null,
+    "isdCode": "+1-868",
+    "isoCode": "TT",
+    "flagEmoji": "🇹🇹",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tt.svg"
+  },
+  {
+    "name": "Tunisia",
+    "alternateName": null,
+    "isdCode": "+216",
+    "isoCode": "TN",
+    "flagEmoji": "🇹🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tn.svg"
+  },
+  {
+    "name": "Turkey",
+    "alternateName": null,
+    "isdCode": "+90",
+    "isoCode": "TR",
+    "flagEmoji": "🇹🇷",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tr.svg"
+  },
+  {
+    "name": "Turkmenistan",
+    "alternateName": null,
+    "isdCode": "+993",
+    "isoCode": "TM",
+    "flagEmoji": "🇹🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tm.svg"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "alternateName": null,
+    "isdCode": "+1-649",
+    "isoCode": "TC",
+    "flagEmoji": "🇹🇨",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tc.svg"
+  },
+  {
+    "name": "Tuvalu",
+    "alternateName": null,
+    "isdCode": "+688",
+    "isoCode": "TV",
+    "flagEmoji": "🇹🇻",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/tv.svg"
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "alternateName": "Virgin Islands, U.S.",
+    "isdCode": "+1-340",
+    "isoCode": "VI",
+    "flagEmoji": "🇻🇮",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/vi.svg"
+  },
+  {
+    "name": "Uganda",
+    "alternateName": null,
+    "isdCode": "+256",
+    "isoCode": "UG",
+    "flagEmoji": "🇺🇬",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ug.svg"
+  },
+  {
+    "name": "Ukraine",
+    "alternateName": null,
+    "isdCode": "+380",
+    "isoCode": "UA",
+    "flagEmoji": "🇺🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ua.svg"
+  },
+  {
+    "name": "United Arab Emirates",
+    "alternateName": null,
+    "isdCode": "+971",
+    "isoCode": "AE",
+    "flagEmoji": "🇦🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ae.svg"
+  },
+  {
+    "name": "United Kingdom",
+    "alternateName": null,
+    "isdCode": "+44",
+    "isoCode": "GB",
+    "flagEmoji": "🇬🇧",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/gb.svg"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "alternateName": null,
+    "isdCode": "+1",
+    "isoCode": "UM",
+    "flagEmoji": "🇺🇲",
+    "flagImage": null
+  },
+  {
+    "name": "United States",
+    "alternateName": null,
+    "isdCode": "+1",
+    "isoCode": "US",
+    "flagEmoji": "🇺🇸",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/us.svg"
+  },
+  {
+    "name": "Uruguay",
+    "alternateName": null,
+    "isdCode": "+598",
+    "isoCode": "UY",
+    "flagEmoji": "🇺🇾",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/uy.svg"
+  },
+  {
+    "name": "Uzbekistan",
+    "alternateName": null,
+    "isdCode": "+998",
+    "isoCode": "UZ",
+    "flagEmoji": "🇺🇿",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/uz.svg"
+  },
+  {
+    "name": "Vanuatu",
+    "alternateName": null,
+    "isdCode": "+678",
+    "isoCode": "VU",
+    "flagEmoji": "🇻🇺",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/vu.svg"
+  },
+  {
+    "name": "Vatican",
+    "alternateName": "Holy See (Vatican City State)",
+    "isdCode": "+379",
+    "isoCode": "VA",
+    "flagEmoji": "🇻🇦",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/va.svg"
+  },
+  {
+    "name": "Venezuela",
+    "alternateName": "Venezuela, Bolivarian Republic of Venezuela",
+    "isdCode": "+58",
+    "isoCode": "VE",
+    "flagEmoji": "🇻🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ve.svg"
+  },
+  {
+    "name": "Vietnam",
+    "alternateName": null,
+    "isdCode": "+84",
+    "isoCode": "VN",
+    "flagEmoji": "🇻🇳",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/vn.svg"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "alternateName": null,
+    "isdCode": "+681",
+    "isoCode": "WF",
+    "flagEmoji": "🇼🇫",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/wf.svg"
+  },
+  {
+    "name": "Western Sahara",
+    "alternateName": null,
+    "isdCode": "+212",
+    "isoCode": "EH",
+    "flagEmoji": "🇪🇭",
+    "flagImage": null
+  },
+  {
+    "name": "Yemen",
+    "alternateName": null,
+    "isdCode": "+967",
+    "isoCode": "YE",
+    "flagEmoji": "🇾🇪",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ye.svg"
+  },
+  {
+    "name": "Zambia",
+    "alternateName": null,
+    "isdCode": "+260",
+    "isoCode": "ZM",
+    "flagEmoji": "🇿🇲",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/zm.svg"
+  },
+  {
+    "name": "Zimbabwe",
+    "alternateName": null,
+    "isdCode": "+263",
+    "isoCode": "ZW",
+    "flagEmoji": "🇿🇼",
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/zw.svg"
+  },
+  {
+    "name": "Ascension Island",
+    "alternateName": null,
+    "isoCode": "AC",
+    "isdCode": "+247",
+    "flagEmoji": null,
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/ac.svg"
+  },
+  {
+    "name": "Netherlands Antilles",
+    "alternateName": null,
+    "isoCode": "AN",
+    "isdCode": "+599",
+    "flagEmoji": null,
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/an.svg"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "alternateName": null,
+    "isoCode": "UMI",
+    "isdCode": "+246",
+    "flagEmoji": null,
+    "flagImage": "https://cdn.kcak11.com/CountryFlags/countries/umi.svg"
+  }
+]
